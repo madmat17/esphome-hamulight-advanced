@@ -1,5 +1,3 @@
-# New Document
-
 # ESP Home Hamulight Advanced
 
 Implementation of the Hamulight protocol in ESPHome for emulating the Hamulight LED driver remote control.
